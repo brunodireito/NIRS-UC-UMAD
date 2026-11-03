@@ -1,0 +1,32 @@
+﻿Variável código,Variável,Grupo,ID,Linha posicional df,Valor,Limite inferior,Limite superior,IQR nulo,Excluído
+ST_R1_Acc_Perc,Stroop — Run 1: Acerto (%),Grupo A — Coletivos,sub-003,2,75.0,77.91375000000001,107.92375,Não,Não
+ST_R1_Acc_Perc,Stroop — Run 1: Acerto (%),Grupo A — Coletivos,sub-007,6,73.33,77.91375000000001,107.92375,Não,Não
+ST_R1_Acc_Perc,Stroop — Run 1: Acerto (%),Grupo A — Coletivos,sub-015,14,3.33,77.91375000000001,107.92375,Não,Não
+ST_R1_Acc_Perc,Stroop — Run 1: Acerto (%),Grupo A — Coletivos,sub-037,36,71.67,77.91375000000001,107.92375,Não,Não
+ST_R1_Acc_Perc,Stroop — Run 1: Acerto (%),Grupo A — Coletivos,sub-043,42,73.33,77.91375000000001,107.92375,Não,Não
+ST_R1_Acc_Perc,Stroop — Run 1: Acerto (%),Grupo A — Coletivos,sub-053,52,76.67,77.91375000000001,107.92375,Não,Não
+ST_R1_Acc_Perc,Stroop — Run 1: Acerto (%),Subgrupo AB — Futebol,sub-003,2,75.0,79.995,106.67500000000001,Não,Não
+ST_R1_Acc_Perc,Stroop — Run 1: Acerto (%),Subgrupo AB — Futebol,sub-037,36,71.67,79.995,106.67500000000001,Não,Não
+ST_R1_Acc_Perc,Stroop — Run 1: Acerto (%),Subgrupo AB — Futebol,sub-043,42,73.33,79.995,106.67500000000001,Não,Não
+ST_R1_Acc_Perc,Stroop — Run 1: Acerto (%),Subgrupo AB — Futebol,sub-053,52,76.67,79.995,106.67500000000001,Não,Não
+ST_R1_Acc_Perc,Stroop — Run 1: Acerto (%),Grupo C — Não federados,sub-005,4,73.33,75.82,109.18,Não,Não
+ST_R1_RT_Medio_seg,Stroop — Run 1: TR médio (s),Grupo A — Coletivos,sub-015,14,0.5502262499649078,0.6486468472923193,1.3643411670181291,Não,Não
+ST_R1_RT_Medio_seg,Stroop — Run 1: TR médio (s),Grupo C — Não federados,sub-001,0,1.177333905782479,0.7281476779391698,1.1663635314326692,Não,Não
+ST_R1_RT_Medio_seg,Stroop — Run 1: TR médio (s),Grupo C — Não federados,sub-004,3,1.190533960383069,0.7281476779391698,1.1663635314326692,Não,Não
+ST_R1_RT_Medio_seg,Stroop — Run 1: TR médio (s),Grupo C — Não federados,sub-019,18,0.68055889660826,0.7281476779391698,1.1663635314326692,Não,Não
+ST_R2_Acc_Perc,Stroop — Run 2: Acerto (%),Grupo A — Coletivos,sub-007,6,78.33,90.63125,105.62125,Não,Não
+ST_R2_Acc_Perc,Stroop — Run 2: Acerto (%),Grupo A — Coletivos,sub-015,14,1.67,90.63125,105.62125,Não,Não
+ST_R2_Acc_Perc,Stroop — Run 2: Acerto (%),Grupo A — Coletivos,sub-037,36,76.67,90.63125,105.62125,Não,Não
+ST_R2_Acc_Perc,Stroop — Run 2: Acerto (%),Subgrupo AB — Futebol,sub-003,2,91.67,91.67500000000001,104.995,Não,Não
+ST_R2_Acc_Perc,Stroop — Run 2: Acerto (%),Subgrupo AB — Futebol,sub-037,36,76.67,91.67500000000001,104.995,Não,Não
+ST_R2_Acc_Perc,Stroop — Run 2: Acerto (%),Grupo C — Não federados,sub-005,4,75.0,80.42750000000001,110.40749999999997,Não,Não
+ST_R2_RT_Medio_seg,Stroop — Run 2: TR médio (s),Grupo C — Não federados,sub-001,0,1.213821849099953,0.5387790791674276,1.1946381871675782,Não,Não
+DM_R1_Acc_Perc,Decision Making — Run 1: Acerto (%),Grupo A — Coletivos,sub-042,41,80.0,35.0,75.0,Não,Não
+DM_R1_Acc_Perc,Decision Making — Run 1: Acerto (%),Grupo A — Coletivos,sub-044,43,30.0,35.0,75.0,Não,Não
+DM_R1_Acc_Perc,Decision Making — Run 1: Acerto (%),Grupo A — Coletivos,sub-048,47,30.0,35.0,75.0,Não,Não
+DM_R1_Acc_Perc,Decision Making — Run 1: Acerto (%),Grupo A — Coletivos,sub-049,48,90.0,35.0,75.0,Não,Não
+DM_R1_Acc_Perc,Decision Making — Run 1: Acerto (%),Subgrupo AB — Futebol,sub-042,41,80.0,48.75,78.75,Não,Não
+DM_R1_Acc_Perc,Decision Making — Run 1: Acerto (%),Subgrupo AB — Futebol,sub-044,43,30.0,48.75,78.75,Não,Não
+DM_R1_Acc_Perc,Decision Making — Run 1: Acerto (%),Subgrupo AB — Futebol,sub-048,47,30.0,48.75,78.75,Não,Não
+DM_R1_Acc_Perc,Decision Making — Run 1: Acerto (%),Subgrupo AB — Futebol,sub-049,48,90.0,48.75,78.75,Não,Não
+DM_R2_Acc_Perc,Decision Making — Run 2: Acerto (%),Grupo A — Coletivos,sub-010,9,30.0,35.0,75.0,Não,Não

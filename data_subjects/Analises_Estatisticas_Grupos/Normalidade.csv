@@ -1,0 +1,25 @@
+﻿Variável código,Variável,Grupo,n,Shapiro W,p Shapiro,Estado
+ST_R1_Acc_Perc,Stroop — Run 1: Acerto (%),Grupo A — Coletivos,28,0.5641084787324218,5.587720232251959e-08,Calculado
+ST_R1_Acc_Perc,Stroop — Run 1: Acerto (%),Subgrupo AB — Futebol,22,0.7945260944478179,0.0004112823906136078,Calculado
+ST_R1_Acc_Perc,Stroop — Run 1: Acerto (%),Grupo C — Não federados,23,0.9000568090570457,0.025348050750699538,Calculado
+ST_R1_RT_Medio_seg,Stroop — Run 1: TR médio (s),Grupo A — Coletivos,28,0.9351585380548841,0.08326156579922538,Calculado
+ST_R1_RT_Medio_seg,Stroop — Run 1: TR médio (s),Subgrupo AB — Futebol,22,0.9447915399265389,0.2481645460189028,Calculado
+ST_R1_RT_Medio_seg,Stroop — Run 1: TR médio (s),Grupo C — Não federados,23,0.9604194222345461,0.47188877119898065,Calculado
+ST_R2_Acc_Perc,Stroop — Run 2: Acerto (%),Grupo A — Coletivos,28,0.38102912667856936,8.276514574613419e-10,Calculado
+ST_R2_Acc_Perc,Stroop — Run 2: Acerto (%),Subgrupo AB — Futebol,22,0.6276570428796705,2.675306463882309e-06,Calculado
+ST_R2_Acc_Perc,Stroop — Run 2: Acerto (%),Grupo C — Não federados,23,0.7858295074480507,0.0002292598354112564,Calculado
+ST_R2_RT_Medio_seg,Stroop — Run 2: TR médio (s),Grupo A — Coletivos,28,0.9774993692005848,0.7868757561911631,Calculado
+ST_R2_RT_Medio_seg,Stroop — Run 2: TR médio (s),Subgrupo AB — Futebol,22,0.9698140923840568,0.7067550214301351,Calculado
+ST_R2_RT_Medio_seg,Stroop — Run 2: TR médio (s),Grupo C — Não federados,23,0.9286712513046316,0.10237186632452894,Calculado
+DM_R1_Acc_Perc,Decision Making — Run 1: Acerto (%),Grupo A — Coletivos,28,0.9167302144680929,0.028817490523239536,Calculado
+DM_R1_Acc_Perc,Decision Making — Run 1: Acerto (%),Subgrupo AB — Futebol,22,0.8779660571383763,0.011050856101424639,Calculado
+DM_R1_Acc_Perc,Decision Making — Run 1: Acerto (%),Grupo C — Não federados,23,0.9314843371200523,0.11774574366958557,Calculado
+DM_R1_RT_Medio_seg,Decision Making — Run 1: TR médio (s),Grupo A — Coletivos,28,0.890645599484688,0.0069561974501086915,Calculado
+DM_R1_RT_Medio_seg,Decision Making — Run 1: TR médio (s),Subgrupo AB — Futebol,22,0.8981646624826564,0.027320570788554155,Calculado
+DM_R1_RT_Medio_seg,Decision Making — Run 1: TR médio (s),Grupo C — Não federados,23,0.9611340245240443,0.4866480977673556,Calculado
+DM_R2_Acc_Perc,Decision Making — Run 2: Acerto (%),Grupo A — Coletivos,28,0.9089840105722136,0.01868962408598259,Calculado
+DM_R2_Acc_Perc,Decision Making — Run 2: Acerto (%),Subgrupo AB — Futebol,22,0.8689255080752785,0.007476235085982724,Calculado
+DM_R2_Acc_Perc,Decision Making — Run 2: Acerto (%),Grupo C — Não federados,23,0.8810203866060194,0.010483514964302413,Calculado
+DM_R2_RT_Medio_seg,Decision Making — Run 2: TR médio (s),Grupo A — Coletivos,28,0.9085932749095831,0.018290163638889242,Calculado
+DM_R2_RT_Medio_seg,Decision Making — Run 2: TR médio (s),Subgrupo AB — Futebol,22,0.918122909911425,0.06951668812468985,Calculado
+DM_R2_RT_Medio_seg,Decision Making — Run 2: TR médio (s),Grupo C — Não federados,23,0.9286266792956493,0.10214527680831514,Calculado
