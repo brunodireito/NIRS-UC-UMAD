@@ -1,0 +1,3 @@
+﻿X,Y,N_plot,Rho_plot,p_plot,p-Holm,Matriz_plot_consistentes,Ajuste_visual,IC_percentagem,N_bootstrap,Semente
+DM_RT_Medio_Total_seg,HbO_S5_D6_Beta,51,0.13773755656108597,0.33511535906902773,1.0,True,Regressão linear,95,5000,42
+DM_Acc_N_Total,HbO_S2_D3_Beta,51,0.17196314805229415,0.22757443871696675,1.0,True,Regressão linear,95,5000,42

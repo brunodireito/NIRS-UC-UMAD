@@ -1,0 +1,147 @@
+﻿ID_Clean,Grupo,Tarefa,Presente_fisiologia
+sub-003,Coletivos,Stroop,True
+sub-007,Coletivos,Stroop,True
+sub-008,Coletivos,Stroop,True
+sub-010,Coletivos,Stroop,True
+sub-012,Coletivos,Stroop,True
+sub-013,Coletivos,Stroop,True
+sub-015,Coletivos,Stroop,True
+sub-016,Coletivos,Stroop,True
+sub-029,Coletivos,Stroop,True
+sub-030,Coletivos,Stroop,True
+sub-033,Coletivos,Stroop,True
+sub-035,Coletivos,Stroop,True
+sub-036,Coletivos,Stroop,True
+sub-037,Coletivos,Stroop,True
+sub-038,Coletivos,Stroop,True
+sub-041,Coletivos,Stroop,True
+sub-042,Coletivos,Stroop,True
+sub-043,Coletivos,Stroop,True
+sub-044,Coletivos,Stroop,True
+sub-046,Coletivos,Stroop,True
+sub-047,Coletivos,Stroop,True
+sub-048,Coletivos,Stroop,True
+sub-049,Coletivos,Stroop,True
+sub-050,Coletivos,Stroop,True
+sub-051,Coletivos,Stroop,True
+sub-052,Coletivos,Stroop,True
+sub-053,Coletivos,Stroop,True
+sub-054,Coletivos,Stroop,True
+sub-003,Futebolistas,Stroop,True
+sub-008,Futebolistas,Stroop,True
+sub-016,Futebolistas,Stroop,True
+sub-030,Futebolistas,Stroop,True
+sub-033,Futebolistas,Stroop,True
+sub-035,Futebolistas,Stroop,True
+sub-036,Futebolistas,Stroop,True
+sub-037,Futebolistas,Stroop,True
+sub-038,Futebolistas,Stroop,True
+sub-041,Futebolistas,Stroop,True
+sub-042,Futebolistas,Stroop,True
+sub-043,Futebolistas,Stroop,True
+sub-044,Futebolistas,Stroop,True
+sub-046,Futebolistas,Stroop,True
+sub-047,Futebolistas,Stroop,True
+sub-048,Futebolistas,Stroop,True
+sub-049,Futebolistas,Stroop,True
+sub-050,Futebolistas,Stroop,True
+sub-051,Futebolistas,Stroop,True
+sub-052,Futebolistas,Stroop,True
+sub-053,Futebolistas,Stroop,True
+sub-054,Futebolistas,Stroop,True
+sub-001,Não federados,Stroop,True
+sub-002,Não federados,Stroop,True
+sub-004,Não federados,Stroop,True
+sub-005,Não federados,Stroop,True
+sub-006,Não federados,Stroop,True
+sub-009,Não federados,Stroop,True
+sub-011,Não federados,Stroop,True
+sub-017,Não federados,Stroop,True
+sub-018,Não federados,Stroop,True
+sub-019,Não federados,Stroop,True
+sub-020,Não federados,Stroop,True
+sub-021,Não federados,Stroop,True
+sub-022,Não federados,Stroop,True
+sub-024,Não federados,Stroop,False
+sub-025,Não federados,Stroop,True
+sub-026,Não federados,Stroop,True
+sub-027,Não federados,Stroop,True
+sub-028,Não federados,Stroop,True
+sub-031,Não federados,Stroop,True
+sub-034,Não federados,Stroop,True
+sub-039,Não federados,Stroop,True
+sub-040,Não federados,Stroop,True
+sub-045,Não federados,Stroop,True
+sub-003,Coletivos,DecisionMaking,True
+sub-007,Coletivos,DecisionMaking,True
+sub-008,Coletivos,DecisionMaking,True
+sub-010,Coletivos,DecisionMaking,True
+sub-012,Coletivos,DecisionMaking,True
+sub-013,Coletivos,DecisionMaking,True
+sub-015,Coletivos,DecisionMaking,True
+sub-016,Coletivos,DecisionMaking,True
+sub-029,Coletivos,DecisionMaking,True
+sub-030,Coletivos,DecisionMaking,True
+sub-033,Coletivos,DecisionMaking,True
+sub-035,Coletivos,DecisionMaking,True
+sub-036,Coletivos,DecisionMaking,True
+sub-037,Coletivos,DecisionMaking,True
+sub-038,Coletivos,DecisionMaking,True
+sub-041,Coletivos,DecisionMaking,True
+sub-042,Coletivos,DecisionMaking,True
+sub-043,Coletivos,DecisionMaking,True
+sub-044,Coletivos,DecisionMaking,True
+sub-046,Coletivos,DecisionMaking,True
+sub-047,Coletivos,DecisionMaking,True
+sub-048,Coletivos,DecisionMaking,True
+sub-049,Coletivos,DecisionMaking,True
+sub-050,Coletivos,DecisionMaking,True
+sub-051,Coletivos,DecisionMaking,True
+sub-052,Coletivos,DecisionMaking,True
+sub-053,Coletivos,DecisionMaking,True
+sub-054,Coletivos,DecisionMaking,True
+sub-003,Futebolistas,DecisionMaking,True
+sub-008,Futebolistas,DecisionMaking,True
+sub-016,Futebolistas,DecisionMaking,True
+sub-030,Futebolistas,DecisionMaking,True
+sub-033,Futebolistas,DecisionMaking,True
+sub-035,Futebolistas,DecisionMaking,True
+sub-036,Futebolistas,DecisionMaking,True
+sub-037,Futebolistas,DecisionMaking,True
+sub-038,Futebolistas,DecisionMaking,True
+sub-041,Futebolistas,DecisionMaking,True
+sub-042,Futebolistas,DecisionMaking,True
+sub-043,Futebolistas,DecisionMaking,True
+sub-044,Futebolistas,DecisionMaking,True
+sub-046,Futebolistas,DecisionMaking,True
+sub-047,Futebolistas,DecisionMaking,True
+sub-048,Futebolistas,DecisionMaking,True
+sub-049,Futebolistas,DecisionMaking,True
+sub-050,Futebolistas,DecisionMaking,True
+sub-051,Futebolistas,DecisionMaking,True
+sub-052,Futebolistas,DecisionMaking,True
+sub-053,Futebolistas,DecisionMaking,True
+sub-054,Futebolistas,DecisionMaking,True
+sub-001,Não federados,DecisionMaking,True
+sub-002,Não federados,DecisionMaking,True
+sub-004,Não federados,DecisionMaking,True
+sub-005,Não federados,DecisionMaking,True
+sub-006,Não federados,DecisionMaking,True
+sub-009,Não federados,DecisionMaking,True
+sub-011,Não federados,DecisionMaking,True
+sub-017,Não federados,DecisionMaking,True
+sub-018,Não federados,DecisionMaking,True
+sub-019,Não federados,DecisionMaking,True
+sub-020,Não federados,DecisionMaking,True
+sub-021,Não federados,DecisionMaking,True
+sub-022,Não federados,DecisionMaking,True
+sub-024,Não federados,DecisionMaking,True
+sub-025,Não federados,DecisionMaking,True
+sub-026,Não federados,DecisionMaking,True
+sub-027,Não federados,DecisionMaking,True
+sub-028,Não federados,DecisionMaking,True
+sub-031,Não federados,DecisionMaking,True
+sub-034,Não federados,DecisionMaking,True
+sub-039,Não federados,DecisionMaking,True
+sub-040,Não federados,DecisionMaking,True
+sub-045,Não federados,DecisionMaking,True

@@ -1,0 +1,5 @@
+﻿X,Y,N_plot,Rho_plot,p_plot,p-Holm,Matriz_plot_consistentes,Ajuste_visual,IC_percentagem,N_bootstrap,Semente
+ST_RT_Medio_Total_seg,HR_Bradicardia_Inc,48,-0.22155883630047765,0.1301726104565863,1.0,True,Regressão linear,95,5000,42
+ST_RT_Medio_Total_seg,HR_Bradicardia_Con,48,-0.17260095527572733,0.24074662244904027,1.0,True,Regressão linear,95,5000,42
+ST_RT_Medio_Total_seg,HR_Media_Con,48,-0.13580112896222318,0.3574001429986553,1.0,True,Regressão linear,95,5000,42
+ST_RT_Medio_Total_seg,HR_Media_Inc,48,-0.09151107251411203,0.536183073244314,1.0,True,Regressão linear,95,5000,42

@@ -1,0 +1,4 @@
+﻿X,Y,N_plot,Rho_plot,p_plot,p-Holm,Matriz_plot_consistentes,Ajuste_visual,IC_percentagem,N_bootstrap,Semente
+DM_RT_Medio_Total_seg,HR_Media,50,-0.29776710684273705,0.03571333297397231,0.8571199913753356,True,Regressão linear,95,5000,42
+DM_Acc_N_Total,GSR_Media,51,0.2701097605818737,0.055244621757152126,1.0,True,Regressão linear,95,5000,42
+DM_RT_Medio_Total_seg,GSR_Media,51,-0.2505882352941176,0.07612749013221896,1.0,True,Regressão linear,95,5000,42
