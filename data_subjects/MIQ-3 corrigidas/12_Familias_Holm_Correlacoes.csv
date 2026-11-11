@@ -1,0 +1,9 @@
+﻿Tarefa,Score,N_testes_tentados,N_testes_estimaveis,N_significativos_Holm
+DecisionMaking,IC,20,20,1
+DecisionMaking,IVE,20,20,0
+DecisionMaking,IVI,20,20,0
+DecisionMaking,Total,20,20,1
+Stroop,IC,60,60,0
+Stroop,IVE,60,60,0
+Stroop,IVI,60,60,0
+Stroop,Total,60,60,0

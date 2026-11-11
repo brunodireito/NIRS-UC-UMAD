@@ -1,0 +1,7 @@
+﻿Tarefa,Score,Variavel_HbO,N,Rho,p_bruto,Estado,p_Holm,N_testes_familia,Significativo_Holm,Magnitude,Rho_absoluto,Linha_visual,IC_visual_percentagem,N_bootstrap,Semente_bootstrap
+Stroop,IC,HbO_S8_D6_Con_Beta,50,-0.35249589393438197,0.012051284775664892,Estimavel,0.7230770865398936,60,False,Moderada,0.35249589393438197,Regressao linear,95,5000,42
+Stroop,IC,HbO_S2_D3_Inc-Con_Beta,50,0.3396927947166447,0.015800756652574792,Estimavel,0.9322446425019127,60,False,Moderada,0.3396927947166447,Regressao linear,95,5000,42
+Stroop,IC,HbO_S5_D6_Con_Beta,50,-0.29273199305762343,0.039112127197336394,Estimavel,1.0,60,False,Pequena,0.29273199305762343,Regressao linear,95,5000,42
+DecisionMaking,Total,HbO_S3_D2_Beta,39,0.5250360039772592,0.0005997940408523142,Estimavel,0.011995880817046285,20,True,Grande,0.5250360039772592,Regressao linear,95,5000,42
+DecisionMaking,IC,HbO_S3_D2_Beta,39,0.48855905430127944,0.0016014234460652603,Estimavel,0.0320284689213052,20,True,Moderada,0.48855905430127944,Regressao linear,95,5000,42
+DecisionMaking,IVE,HbO_S1_D2_Beta,42,0.4443700815817142,0.003196270286664742,Estimavel,0.06392540573329485,20,False,Moderada,0.4443700815817142,Regressao linear,95,5000,42
